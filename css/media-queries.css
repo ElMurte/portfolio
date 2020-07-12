@@ -204,7 +204,6 @@
    /* header social links */
    header .social {
       margin: 18px 0 24px 0;
-      font-size: 24px;
       line-height: 36px;      
    }
    header .social li { margin: 0 10px; }
@@ -323,7 +322,7 @@
    footer .copyright li { margin-right: 12px; }
 
    /* social links */
-   footer .social-links { font-size: 22px; }
+   footer .social-links {  }
    footer .social-links li { margin-left: 18px; }
 
    /* Go To Top Button */
@@ -360,14 +359,14 @@
    }
   
    /* header social links */
-   header .social { font-size: 20px;}
+   header .social { }
    header .social li { margin: 0 6px; }
 
    /* footer
    ------------------------------------------------------------------------ */
 
    /* social links */
-   footer .social-links { font-size: 20px; }
+   footer .social-links {  }
    footer .social-links li { margin-left: 14px; }   
 
 }

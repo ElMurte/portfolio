@@ -62,6 +62,9 @@ article,aside,details,figcaption,figure,
 footer,header,hgroup,menu,nav,section {
    display: block;
 }
+nav{
+	background:#171717;
+}
 
 audio,
 canvas,
@@ -687,7 +690,7 @@ input[type="checkbox"] { display: inline; }
 /* block grids
 --------------------------------------------------------------------- */
 .bgrid-sixths [class*="column"]   { width: 16.66667%; }
-.bgrid-quarters [class*="column"] { width: 25%; }
+.bgrid-quarters [class*="column"] { width: 31%; }
 .bgrid-thirds [class*="column"]   { width: 33.33333%; }
 .bgrid-halves [class*="column"]   { width: 50%; }
 
