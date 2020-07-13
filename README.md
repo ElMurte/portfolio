@@ -1,4 +1,4 @@
-This is a template based on that repo: http://hits.dwyl.io/rbhatia46/React-Portfolio
+This is a template based on that repo: https://github.com/rbhatia46/React-Portfolio
 
 [![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
 
