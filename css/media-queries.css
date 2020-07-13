@@ -27,6 +27,7 @@
 
     /* header styles
    ------------------------------------------------------------------ */
+   header{height:660px;}
    header .banner { padding-bottom: 12px; }
    header .banner-text h1 {
       font: 78px/1.1em 'opensans-bold', sans-serif;
@@ -50,9 +51,9 @@
    /* About Section
    ------------------------------------------------------------------- */
    #about .profile-pic {
-      width: 114px;
-      height: 114px;
-      margin-left: 12px;
+      width: 120px;
+      height: 120px;
+      margin-left: 30%;
    }
    #about .contact-details { width: 50%; }
    #about .download { width: 50%; }
@@ -214,7 +215,6 @@
 
    /* About Section
    -------------------------------------------------------------------- */
-   #about .profile-pic { display: none; }
    #about .download .button {
       width: 100%;
       text-align: center;
