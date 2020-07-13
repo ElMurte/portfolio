@@ -1,6 +1,6 @@
 This is a template based on that repo: https://github.com/rbhatia46/React-Portfolio
 
-live version at: elmurte.github.io/Portfolio
+live version at: https://elmurte.github.io/Portfolio
 
 [![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
 
