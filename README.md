@@ -1,5 +1,5 @@
 live version at: https://elmurte.github.io/Portfolio
-A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
+A simple Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
 ## How to use
 This is a template based on that repo: https://github.com/rbhatia46/React-Portfolio
